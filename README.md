@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 152 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 51.0 kB Used in Github's Storage 
  > 
